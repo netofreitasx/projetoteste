@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Projeto aula feita pela Rocketseat
+Projeto aula feita pela Rocketseat, Projeto muito interessante aprendi muito professor exelente!
